@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6660],{46660:e=>{e.exports=JSON.parse('{"collection":"https://api.dc.library.northwestern.edu/api/v2/collections/ecacd539-fe38-40ec-bbc0-590acee3d4f2?as=iiif","metadata":["Date"]}')}}]);
